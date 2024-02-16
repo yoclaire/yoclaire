@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yoclaire
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning anything
-- 💞️ I’m looking to collaborate on interesting projects 
-- 📫 How to reach me (please don't)
+- 👀 I’m interested in all things information security (and cats)
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m always happy to collaborate on interesting projects 
+- 📫 How to reach me (please don't) (unless you're a work colleague, then slack me)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: can roller skate on one foot backwards
 
