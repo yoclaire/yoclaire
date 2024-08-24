@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoclaire
 - 👀 I’m interested in all things information security (and cats)
-- 🌱 I’m currently improving Python, Terraform, and Git skills
+- 🌱 I’m currently improving Python, Terraform, and Git skills. Learning Go and getting back into JavaScript are also on the to do list..
 - 💞️ I’m always happy to collaborate on interesting projects, especially if they have the potential for mischief
 - 📫 How to reach me (please don't) (unless you're a work colleague, then just slack me)
 - 😄 Pronouns: she/her
