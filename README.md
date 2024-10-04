@@ -50,7 +50,7 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 
 ## 📜 Certifications and Courses
 
-- **AWS Certified Cloud Practitioner**
+- **AWS Certified Cloud Practitioner** ![AWS Certified](https://images.credly.com/size/110x110/images/684a9a15-e8f0-456e-8f9c-bf47fb225245/AWS-Cloud-Practitioner-2020.png)
 - **ISC2 Certified in Cybersecurity (CC)**
 - **ICCA - INE Certified Cloud Associate**
 - **JumpCloud Core Certification**
