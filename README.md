@@ -35,6 +35,17 @@ I’m a **Security Engineer** based in the **US**, specializing in endpoint secu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&exclude_repo=yoclaire.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
+## 📜 Certifications
+
+- **AWS Certified Cloud Practitioner**
+- **ISC2 Certified in Cybersecurity (CC)**
+- **ICCA - INE Certified Cloud Associate**
+- **JumpCloud Core Certification**
+- **SBT Blue Team Junior Analyst**
+- **Fortinet Network Security Associate**
+
+---
+
 ## 📬 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/Like_recursion%3F-100000?style=flat&logo=github&logoColor=white)](https://github.com/yoclaire)
@@ -54,13 +65,6 @@ I’m a **Security Engineer** based in the **US**, specializing in endpoint secu
 ## Projects
 
 - **[Host-Insights-Promptify](https://github.com/yoclaire/host-insights-promptify)**: A CLI tool to gather context about your host environment for improved support in LLM conversations.
-
-## 🐾 About Norma
-
-Norma, my cat, is the queen of the house. She loves:
-- **Sunbathing** on her back, showing off her belly in the window.
-- **Chasing tinsel balls** up and down the stairs (sometimes for hours).
-- Hanging out around me, often wanting me to pet her while under the desk.
 
 ---
 
