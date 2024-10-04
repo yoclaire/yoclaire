@@ -34,14 +34,19 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 
 
 ### **Security & Compliance**
-- **Endpoint Security**: Crowdstrike, SentinelOne, CarbonBlack, Sophos, MalwareBytes, Cisco Meraki
-- **Privacy & Compliance**: SOC2, PCI-DSS, GDPR, CCPA, ISO 27001
-- **SIEM & Monitoring**: Crowdstrike, Datadog, Wazuh
+![Crowdstrike](https://img.shields.io/badge/Crowdstrike-F83C0F?style=flat&logo=crowdstrike&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-101010?style=flat&logo=sentinelone&logoColor=white)
+![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-008194?style=flat&logo=cisco&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW-2E8B57?style=flat&logo=ubuntu&logoColor=white)
 
 ### **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+- **Compliance & Privacy**: SOC2, PCI-DSS, GDPR, CCPA, ISO 27001
 
 ## 📜 Certifications
 
