@@ -56,6 +56,7 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 - **JumpCloud Core Certification**
 - **SBT Blue Team Junior Analyst**
 - **Fortinet Network Security Associate**
+- **Google Foundations of Project Management** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
 
 ## 📈 GitHub Stats
 
