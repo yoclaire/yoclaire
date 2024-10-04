@@ -47,8 +47,6 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- **Compliance & Privacy**: SOC2, PCI-DSS, GDPR, CCPA, ISO 27001
-
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner**
