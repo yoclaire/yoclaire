@@ -33,13 +33,14 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 
-### **Security & Compliance**
+### **Security**
 ![Crowdstrike](https://img.shields.io/badge/Crowdstrike-F83C0F?style=flat&logo=crowdstrike&logoColor=white)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-101010?style=flat&logo=sentinelone&logoColor=white)
 ![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-008194?style=flat&logo=cisco&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
 ![UFW](https://img.shields.io/badge/UFW-2E8B57?style=flat&logo=ubuntu&logoColor=white)
+- **Privacy and Compliance**: SOC2, PCI-DSS, GDPR, CCPA, ISO 27001
 
 ### **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
