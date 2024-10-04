@@ -10,7 +10,7 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 - 🛡️ Previous Roles: Significant contributions in endpoint detection, vulnerability management, and SOC2/PCI-DSS compliance in the financial and ad tech industries.
 - 💬 Ask me about **macOS fleet management**, **Terraform automation**, **Docker**, and **SIEM integrations**.
 - 🌍 Privacy Advocate: Implemented GDPR and CCPA informed privacy strategies, assuring privacy-by-design in digital advertising products.
-- 🎉 Fun fact: I’m into film, meditation, and spending quality time with my cat **Norma**, who’s my regular desk buddy!
+- 🎉 Fun fact: I’m into film, meditation, and spending quality time with my bestie, my cat **Norma**.
 
 ## 🛠️ Tech Stack
 
