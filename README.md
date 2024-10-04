@@ -22,7 +22,7 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ### **Operating Systems**
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 
 ### **Cloud Platforms**
@@ -38,7 +38,8 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-008194?style=flat&logo=cisco&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW-2E8B57?style=flat&logo=ubuntu&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-0096D6?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ### **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
