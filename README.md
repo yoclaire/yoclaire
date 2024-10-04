@@ -40,7 +40,6 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
 ![UFW](https://img.shields.io/badge/UFW-2E8B57?style=flat&logo=ubuntu&logoColor=white)
-- **Privacy and Compliance**: SOC2, PCI-DSS, GDPR, CCPA, ISO 27001
 
 ### **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
