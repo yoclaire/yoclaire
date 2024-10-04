@@ -48,7 +48,7 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## 📜 Certifications
+## 📜 Certifications and Courses
 
 - **AWS Certified Cloud Practitioner**
 - **ISC2 Certified in Cybersecurity (CC)**
