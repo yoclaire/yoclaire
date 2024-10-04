@@ -40,6 +40,8 @@ I’m a **Security Engineer** and **System Administrator** based in the **San Fr
 ![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
 ![nmap](https://img.shields.io/badge/nmap-0096D6?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7A00?style=flat&logo=burp-suite&logoColor=white)
+
 
 ### **DevOps & Automation**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
