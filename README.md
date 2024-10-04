@@ -1,4 +1,4 @@
-# Hi there, I'm @yoclaire! 👋
+# hey there, i'm @yoclaire! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow)](https://github.com/yourusername?tab=followers)
