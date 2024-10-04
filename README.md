@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I’m a **Security Engineer** and **System Administrator** based in the **San Francisco Bay Area**, specializing in endpoint security, identity protection, cloud infrastructure security, data privacy, and compliance. With extensive experience in **macOS, Linux, and cloud platforms**, I’m passionate about creating secure environments that not only meet but exceed compliance standards.
+I’m a **Security Engineer** and **System Administrator** based in the **San Francisco Bay Area**, specializing in endpoint security, identity protection, cloud infrastructure, data privacy, and compliance. With extensive experience in **macOS, Linux, and cloud platforms**, I’m passionate about creating secure environments that not only meet but exceed compliance standards.
 
 - 🛡️ Previous Roles: Significant contributions in endpoint detection, vulnerability management, and SOC2/PCI-DSS compliance in financial and ad tech industries.
 - 💬 Ask me about **macOS fleet management**, **Terraform automation**, **Docker**, and **SIEM integrations**.
