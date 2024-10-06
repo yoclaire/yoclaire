@@ -3,59 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/yoclaire.svg?style=social&label=Follow)](https://github.com/yoclaire?tab=followers)
 
-- 🛡️ Previous Roles: Significant contributions in detection engineering, vulnerability management, and SOC2/PCI-DSS compliance in the financial and ad tech industries.
-- 💬 Ask me about **macOS fleet management**, **Terraform automation**, **Docker**, and **SIEM integrations**.
-- 🌍 Privacy Advocate: Implemented GDPR and CCPA informed privacy strategies, assuring privacy-by-design in digital advertising products.
-- 🎉 Fun fact: I’m into film, meditation, and spending quality time with my bestie, my cat **Norma**.
-
-## 🛠️ Tech Stack
-
-### **Languages & Scripting**
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
-### **Operating Systems**
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-
-
-### **Cloud Platforms**
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat&logo=okta&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-
-
-### **Security**
-![Crowdstrike](https://img.shields.io/badge/Crowdstrike-F83C0F?style=flat&logo=crowdstrike&logoColor=white)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-101010?style=flat&logo=sentinelone&logoColor=white)
-![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-008194?style=flat&logo=cisco&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005576?style=flat&logo=wazuh&logoColor=white)
-![nmap](https://img.shields.io/badge/nmap-0096D6?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7A00?style=flat&logo=burp-suite&logoColor=white)
-
-
-### **DevOps & Automation**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-## 📜 Certifications and Courses
-
-- **AWS Certified Cloud Practitioner** ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-- **ISC2 Certified in Cybersecurity (CC)**
-- **ICCA - INE Certified Cloud Associate**
-- **JumpCloud Core Certification**
-- **SBT Blue Team Junior Analyst**
-- **Fortinet Network Security Associate**
-- **Google Foundations of Project Management** ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
-
-## 📈 GitHub Stats
-
 <div>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoclaire&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&exclude_repo=yoclaire.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -73,6 +20,3 @@
 - Into movies? [See what I'm watching on Letterboxd](https://letterboxd.com/iamingrid/)!
 - Check out my music taste on [Last.fm](https://www.last.fm/user/punkbunniebabe)!
 
----
-
-*if you've made it this far, thanks for reading!*
