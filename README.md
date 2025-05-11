@@ -19,4 +19,4 @@
 - ![Chess.com](https://img.shields.io/badge/Chess.com-%2331A8FF.svg?style=for-the-badge&logo=chess.com&logoColor=white) Want to challenge me in chess? [Find me on Chess.com](https://www.chess.com/member/yoclaire)!
 - ![Letterboxd](https://img.shields.io/badge/Letterboxd-%231C1C1C.svg?style=for-the-badge&logo=letterboxd&logoColor=white) Into movies? [See what I'm watching on Letterboxd](https://letterboxd.com/mumbleclaire/)!
 - ![Last.fm](https://img.shields.io/badge/Last.fm-%23D51007.svg?style=for-the-badge&logo=last.fm&logoColor=white) Check out my music taste on [Last.fm](https://www.last.fm/user/punkbunniebabe)!
-- ![Bluesky](https://img.shields.io/badge/Bluesky-%231333FF.svg?style=for-the-badge&logo=bluesky&logoColor=white) Follow me on [Bluesky](https://bsky.app/profile/claire.wtf)!
+- ![Bluesky](https://img.shields.io/badge/Bluesky-%231333FF.svg?style=for-the-badge&logo=bluesky&logoColor=white) Follow me on [Bluesky](https://bsky.app/profile/claire.social)!
