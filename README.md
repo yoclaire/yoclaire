@@ -1,6 +1,6 @@
 # hey there, i'm @yoclaire 🧘🏻‍♀️
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/yoclaire.svg?style=social&label=Follow)](https://github.com/yoclaire?tab=followers)
 [![Website](https://img.shields.io/badge/website-claire.social-00D632?style=flat&logo=About.me&logoColor=white)](https://claire.social)
 
