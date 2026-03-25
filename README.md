@@ -1,10 +1,64 @@
-# hey there, i'm @yoclaire 🧘🏻‍♀️
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/yoclaire.svg?style=social&label=Follow)](https://github.com/yoclaire?tab=followers)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=@yoclaire&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
+<div align="center">
 
-<div>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoclaire&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&exclude_repo=yoclaire.github.io&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
+
+</div>
+
+### About
+
+⌖ **Location** &nbsp; redacted <br/>
+⌗ **Experience** &nbsp; redacted <br/>
+◎ **Education** &nbsp; dropout <br/>
+⟳ **Learning** &nbsp; always
+
+✦ **Fun fact** &nbsp; can juggle
+
+---
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,go,bash&theme=dark" alt="Languages"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,terraform&theme=dark" alt="DevOps & Cloud"/>
+
+---
+
+### Languages
+
+🇬🇧 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🇪🇸 **Spanish** &nbsp; ![Basic](https://img.shields.io/badge/-Basic-critical?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoclaire&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoclaire&theme=aura&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoclaire&theme=aura&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%"/>
+
 </div>
