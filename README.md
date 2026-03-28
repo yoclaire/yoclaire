@@ -9,17 +9,6 @@
 
 </div>
 
-### About
-
-⌖ **Location** &nbsp; redacted <br/>
-⌗ **Experience** &nbsp; redacted <br/>
-◎ **Education** &nbsp; dropout <br/>
-⟳ **Learning** &nbsp; always
-
-✦ **Fun fact** &nbsp; can juggle
-
----
-
 ### Stack
 
 **Languages**
