@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yoclaire&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
+ <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
 
 <img src="https://raw.githubusercontent.com/yoclaire/claude-code-stats/main/stats.svg" alt="Claude Code Stats"/>
 
