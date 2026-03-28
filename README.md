@@ -37,12 +37,6 @@
 
 ---
 
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yoclaire&theme=aura&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=120&section=footer" width="100%"/>
