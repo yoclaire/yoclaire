@@ -11,8 +11,7 @@
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,go,bash&theme=dark" alt="Languages"/>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,terraform&theme=dark" alt="DevOps & Cloud"/>
+<img src="https://skillicons.dev/icons?i=python,ts,go,bash&theme=dark" alt="Languages"/> <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,terraform&theme=dark" alt="DevOps & Cloud"/>
 
 ---
 
