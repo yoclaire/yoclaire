@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=240&section=header&text=@yoclaire&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+hey there i'm @yoclaire 🧘🏻‍♀️
+
 </div>
 
 <div align="center">
