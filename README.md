@@ -29,6 +29,8 @@ hey there i'm @yoclaire 🧘🏻‍♀️
 
 <img src="https://raw.githubusercontent.com/yoclaire/claude-code-stats/main/stats.svg" alt="Claude Code Stats"/>
 
+<img src="https://raw.githubusercontent.com/yoclaire/github-contributions/main/contributions.svg" alt="GitHub Contributions"/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=yoclaire&theme=aura&hide_border=true)](https://git.io/streak-stats) <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoclaire&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
 
 </div>
