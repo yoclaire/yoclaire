@@ -1,22 +1,13 @@
-
-hey there i'm @yoclaire 🧘🏻‍♀️
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=python,ts,go,bash&theme=dark" alt="Languages"/> <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,terraform&theme=dark" alt="DevOps & Cloud"/>
-
----
-
-### Languages
-
-🇬🇧 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
-🇪🇸 **Spanish** &nbsp; ![Basic](https://img.shields.io/badge/-Basic-critical?style=flat-square) <br/>
-
----
-
-### Activity Stats
+hey there i'm @yoclaire 🧘🏻‍♀️ 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
+
+<img src="https://skillicons.dev/icons?i=apple,aws,bash,cloudflare,debian,docker,github,go,py,terraform,ts,ubuntu,vscode&theme=dark" alt="Languages"/>
+
+🇺🇸 **English** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+🇲🇽 **Spanish** &nbsp; ![Basic](https://img.shields.io/badge/-Basic-critical?style=flat-square) <br/>
+
+---
 
 <div align="center">
 
