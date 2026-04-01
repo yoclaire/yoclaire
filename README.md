@@ -4,12 +4,6 @@ hey there i'm @yoclaire 🧘🏻‍♀️
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
-
-</div>
-
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=python,ts,go,bash&theme=dark" alt="Languages"/> <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,git,linux,vscode,terraform&theme=dark" alt="DevOps & Cloud"/>
@@ -23,7 +17,7 @@ hey there i'm @yoclaire 🧘🏻‍♀️
 
 ---
 
-### Activity Stats
+### Activity Stats ![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
 
 <div align="center">
 
