@@ -1,8 +1,5 @@
-<div align="center">
 
 hey there i'm @yoclaire 🧘🏻‍♀️
-
-</div>
 
 ### Stack
 
