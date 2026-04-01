@@ -17,7 +17,7 @@ hey there i'm @yoclaire 🧘🏻‍♀️
 
 ---
 
-### Activity Stats ![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
+### Activity Stats     ![Profile Views](https://komarev.com/ghpvc/?username=yoclaire&color=a855f7&style=flat-square)
 
 <div align="center">
 
